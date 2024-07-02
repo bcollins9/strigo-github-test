@@ -7,6 +7,8 @@ classes:
         title: "Hello!"
       - file: "../hello-world/world.md"
         title: "World!"
+      - file: "../hello-world/test.md"
+        title: "Test Lesson"
 
 ## Class exercises - configuration for multiple classes
 # ---
